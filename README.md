@@ -1,6 +1,7 @@
 <p align="center"><img src="./screenshot/logo.ico" width="150px" height="150px" alt="aventium softworks"></p>
 
 <h1 align="center">MHDDoS - DDoS Attack Script With 36 Method</h1>
+<h1 align="center">MODDED TO USE SOCKS VN BY NANGSONTAYPRO</h1>
 
 <em><h5 align="center">(Code Lang - Python 3)</h5></em>
 
