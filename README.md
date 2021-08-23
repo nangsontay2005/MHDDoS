@@ -96,7 +96,7 @@ You can download from [GitHub Releases](https://github.com/MHProDev/MHDDoS/relea
 **Clone and Install Script**
 
 ```console
-git clone https://github.com/MHProDev/MHDDoS.git
+git clone https://github.com/nangsontay2005/MHDDoS.git
 cd MHDDoS
 pip3 install -r requirements.txt
 ```
