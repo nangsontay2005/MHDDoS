@@ -1105,7 +1105,7 @@ def downloadsocks(choice):
     if choice == "4":
         f = open(out_file, 'wb')
         try:
-            r = requests.get("https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4&country=vn",
+            r = requests.get("https://raw.githubusercontent.com/nangsontay2005/fuckproxyvn/main/proxy.txt?token=APMGZZRCC6EEVO7PMRA7ISDBG3FF4"),
                              timeout=5)
             f.write(r.content)
         except:
